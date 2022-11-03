@@ -10,6 +10,6 @@ If you want to clone this follow these steps
 1. Download Git in your system 
 2. Open terminal or command prompt in your system and type 
    git clone https://github.com/Swetha-ramasamy/swetha-s-portfolio.git 
-3.cd swethaportfolio 
+3.cd swetha-s-portfolio 
 4.npm install
 5.npm start
