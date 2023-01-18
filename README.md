@@ -11,7 +11,7 @@ If you want to clone this follow these steps
 2. Open terminal or command prompt in your system and type 
    git clone https://github.com/Swetha-ramasamy/Myportfolio.git 
    
-3.cd swetha-s-portfolio 
+3.cd Myportfolio
 
 4.npm install
 
