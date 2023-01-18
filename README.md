@@ -9,7 +9,7 @@ If you want to clone this follow these steps
 
 1. Download Git in your system 
 2. Open terminal or command prompt in your system and type 
-   git clone https://github.com/Swetha-ramasamy/swetha-s-portfolio.git 
+   git clone https://github.com/Swetha-ramasamy/Myportfolio.git 
    
 3.cd swetha-s-portfolio 
 
