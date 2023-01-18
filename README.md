@@ -1,4 +1,4 @@
-# swetha-s-portfolio
+# Myportfolio
 
 My portfolio website is designed using ReactJS is a javascript library  
 
