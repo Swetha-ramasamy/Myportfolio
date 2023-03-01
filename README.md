@@ -5,7 +5,7 @@ My portfolio website is designed using ReactJS is a javascript library
 This contains six componenets which includes a home , about, reusme, projects, contact and achievements 
 A complete responsive portfolio website designed using React JS 
 
-##Functionalities 
+## Functionalities 
 <ul>
 <li>The home page contains my areas of interest, self introduction</li>
 <li>The about page contains my hobbies, known programming languages, tools i have used and my GitHub calendar</li>
